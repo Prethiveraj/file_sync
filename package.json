@@ -1,5 +1,8 @@
 {
   "name": "file_sync",
+  "scripts": {
+    "dev": "expo start"
+  },
   "dependencies": {
     "@expo-google-fonts/inter": "^0.4.0",
     "expo": "^53.0.9",
